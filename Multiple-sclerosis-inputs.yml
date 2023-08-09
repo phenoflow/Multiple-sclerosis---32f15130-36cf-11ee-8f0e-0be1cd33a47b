@@ -1,0 +1,33 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-fhir.js
+inputModule2:
+  class: File
+  path: python/multiple-sclerosis-review---primary.py
+inputModule3:
+  class: File
+  path: python/multiple-sclerosis---primary.py
+inputModule4:
+  class: File
+  path: python/multiple-sclerosis-phase---primary.py
+inputModule5:
+  class: File
+  path: python/multiple-sclerosis-monitoring---primary.py
+inputModule6:
+  class: File
+  path: python/multiple-sclerosis-letter---primary.py
+inputModule7:
+  class: File
+  path: python/sclerosis---primary.py
+inputModule8:
+  class: File
+  path: python/progressive-multiple-sclerosis---primary.py
+inputModule9:
+  class: File
+  path: python/multiple-sclerosis-history---primary.py
+inputModule10:
+  class: File
+  path: python/multiple-sclerosis---secondary.py
+inputModule11:
+  class: File
+  path: python/output-cases.py
